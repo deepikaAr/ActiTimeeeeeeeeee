@@ -7,6 +7,8 @@ public class TestDemo {
 		
 		System.out.println("deepikapriank");
 		System.out.println("he");
+		System.out.println("he");
+		System.out.println("he");
 
 	}
 
